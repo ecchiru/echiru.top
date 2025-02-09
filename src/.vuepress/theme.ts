@@ -90,12 +90,13 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "Meow?",
+      copyright: "2023 - 2025 © Blog of Useless Yiyi",
 
       displayFooter: true,
 
       blog: {
-        description: "A FrontEnd programmer",
+        description: "Every small change in a person's heart is enough to create a tidal wave over the course of a lifetime.",
         intro: "/en/intro.html",
       },
 

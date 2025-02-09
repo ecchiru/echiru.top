@@ -5,16 +5,16 @@ export const enSidebar = sidebar({
     "",
     {
       text: "Articles",
-      icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      icon: "book",
+      prefix: "articles/",
+      link: "articles/",
       children: "structure",
     },
     {
-      text: "Articles",
-      icon: "book",
-      prefix: "posts/",
-      children: "structure",
+      text: "Friend Links",
+      icon: "link",
+      prefix: "friend-links/",
+      link: "friend-links/",
     },
     "intro",
     // {

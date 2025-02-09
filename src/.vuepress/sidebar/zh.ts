@@ -13,8 +13,8 @@ export const zhSidebar = sidebar({
     {
       text: "友情链接",
       icon: "link",
-      prefix: "friend-link/",
-      link: "friend-link/",
+      prefix: "friend-links/",
+      link: "friend-links/",
     },
     // {
     //   text: "随手帖",

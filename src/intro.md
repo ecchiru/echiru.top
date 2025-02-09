@@ -2,6 +2,7 @@
 icon: circle-info
 cover: /intro.avif
 article: false
+author: false
 ---
 
 # 关于我

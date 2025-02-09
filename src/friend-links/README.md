@@ -3,6 +3,7 @@ title: 友情链接
 index: false
 icon: link
 article: false
+author: false
 order: 0
 ---
 

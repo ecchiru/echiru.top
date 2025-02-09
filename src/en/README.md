@@ -2,47 +2,44 @@
 home: true
 layout: BlogHome
 icon: house
-title: Blog Home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: The name of your blog
-tagline: You can put your slogan here
+title: Home
+bgImage: /banner.avif
+heroImage: /logo.avif
+heroText: Blog of Useless Yiyi
 heroFullScreen: true
-projects:
-  - icon: folder-open
-    name: project name
-    desc: project detailed description
-    link: https://your.project.link
+tagline: Welcome to Ethyl Acetate's personal blog!  I’ll be sharing interesting things with you from time to time!
+# projects:
+#   - icon: folder-open
+#     name: project name
+#     desc: project detailed description
+#     link: https://your.project.link
 
-  - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+#   - icon: link
+#     name: link name
+#     desc: link detailed description
+#     link: https://link.address
 
-  - icon: book
-    name: book name
-    desc: Detailed description of the book
-    link: https://link.to.your.book
+#   - icon: book
+#     name: book name
+#     desc: Detailed description of the book
+#     link: https://link.to.your.book
 
-  - icon: newspaper
-    name: article name
-    desc: Detailed description of the article
-    link: https://link.to.your.article
+#   - icon: newspaper
+#     name: article name
+#     desc: Detailed description of the article
+#     link: https://link.to.your.article
 
-  - icon: user-group
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
+#   - icon: user-group
+#     name: friend name
+#     desc: Detailed description of friend
+#     link: https://link.to.your.friend
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: custom item
-    desc: Detailed description of this custom item
-    link: https://link.to.your.friend
+#   - icon: https://theme-hope-assets.vuejs.press/logo.svg
+#     name: custom item
+#     desc: Detailed description of this custom item
+#     link: https://link.to.your.friend
 
-footer: customize your footer text
+# footer: customize your footer text
 ---
 
-This is a blog home page demo.
-
-To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://theme-hope.vuejs.press/guide/blog/home.html).
+You touched my bottom line
