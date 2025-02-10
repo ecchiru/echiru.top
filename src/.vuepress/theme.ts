@@ -75,9 +75,10 @@ export default hopeTheme({
         intro: "/intro.html",
       },
 
-      // metaLocales: {
-      //   editLink: "在 GitHub 上编辑此页",
-      // },
+      metaLocales: {
+        // editLink: "在 GitHub 上编辑此页",
+        // contributors: "",
+      }
     },
 
     /**

@@ -5,6 +5,7 @@ cover: /assets/images/Im-coming/Im-coming.avif
 date: 2023-02-15
 order: 5
 author: false
+contributors: false
 category:
   - 折腾感想
 tag:
