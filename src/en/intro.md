@@ -4,6 +4,7 @@ cover: /intro.avif
 article: false
 author: false
 contributors: false
+lastUpdated: false
 ---
 
 # About Me

@@ -5,6 +5,7 @@ icon: link
 article: false
 author: false
 contributors: false
+lastUpdated: false
 order: 0
 ---
 

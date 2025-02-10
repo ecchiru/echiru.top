@@ -6,6 +6,7 @@ date: 2023-02-15
 order: 5
 author: false
 contributors: false
+lastUpdated: false
 category:
   - Thoughts on tinkering
 tag:
