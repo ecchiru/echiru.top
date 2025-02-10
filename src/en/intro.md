@@ -3,6 +3,7 @@ icon: circle-info
 cover: /intro.avif
 article: false
 author: false
+contributors: false
 ---
 
 # About Me

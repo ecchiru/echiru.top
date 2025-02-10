@@ -4,6 +4,7 @@ index: false
 icon: link
 article: false
 author: false
+contributors: false
 order: 0
 ---
 
