@@ -44,16 +44,16 @@ export default hopeTheme({
       // Reddit: "https://example.com",
       // Rss: "https://example.com",
       // Steam: "https://example.com",
-      // Twitter: "http://x.com/echirru",
+      Twitter: "http://x.com/echirru",
       // Wechat: "https://example.com",
       // Weibo: "https://example.com",
       // Whatsapp: "https://example.com",
       // Youtube: "https://example.com",
       // Zhihu: "https://example.com",
-      Twitter: {
-        icon: "https://raw.githubusercontent.com/ecchiru/echiru.top/283127fc0fd07003f0d961f82a1b90e4eb6bd76a/src/articles/Twitter.svg",
-        link: "http://x.com/echirru",
-       },
+      // Twitter: {
+      //   icon: "https://raw.githubusercontent.com/ecchiru/echiru.top/283127fc0fd07003f0d961f82a1b90e4eb6bd76a/src/articles/Twitter.svg",
+      //   link: "http://x.com/echirru",
+      //  },
     },
   },
 
