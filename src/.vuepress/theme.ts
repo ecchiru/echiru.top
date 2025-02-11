@@ -50,10 +50,10 @@ export default hopeTheme({
       // Whatsapp: "https://example.com",
       // Youtube: "https://example.com",
       // Zhihu: "https://example.com",
-      // Twitter: {
-      //   icon: "",
-      //   link: "http://x.com/echirru",
-      //  },
+      Twitter: {
+        icon: "https://raw.githubusercontent.com/ecchiru/echiru.top/283127fc0fd07003f0d961f82a1b90e4eb6bd76a/src/articles/Twitter.svg",
+        link: "http://x.com/echirru",
+       },
     },
   },
 
